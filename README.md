@@ -316,6 +316,3 @@ This project demonstrates the core components of a Retrieval-Augmented Generatio
 
 The central principle is that **the LLM receives retrieved document context before generating an answer**, rather than relying only on its pretrained knowledge.
 
-## License
-
-Add a license if you intend to distribute the project publicly. Until a license is selected, do not assume that others have permission to reuse or redistribute the code.
