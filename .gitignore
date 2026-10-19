@@ -1,0 +1,12 @@
+
+.venv/
+myenv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
+chroma_db/
+data/*
+!data/.gitkeep
+test_rag.py
+test_vector_store.py
