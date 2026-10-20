@@ -140,7 +140,7 @@ This helps users inspect the passages used to produce an answer.
 ## 5. Project Structure
 
 ```text
-basic-rag-pipeline/
+Document_RAG/
 │
 ├── src/
 │   ├── __init__.py
